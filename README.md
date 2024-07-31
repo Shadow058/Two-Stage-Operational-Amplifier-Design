@@ -12,3 +12,9 @@ Analog Electronics, LTSpice
 ## Approach
 + *Design the Amplifier Stages:* Design the first stage for high gain and the second stage for high output swing.
 + *Miller Frequency Compensation:* Implement Miller frequency compensation to stabilize the amplifie
+
+## Circuit Design
+![image](https://github.com/user-attachments/assets/eec4582c-c99b-4688-b549-47026fd1695f)
+
+## Simulation Result
+![image](https://github.com/user-attachments/assets/50fa781f-dc92-4be9-8063-9d2ec4848579)
